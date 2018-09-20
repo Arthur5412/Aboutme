@@ -3,9 +3,12 @@ body{
  
 }
 img {
-    border:1px solid black;
-    padding:20px;
-    width: 20%;
-    height: 20%
+    background-size: contain;
+    width: 160px;
+    height: 160px;
+    border: 2px solid;
+    color: pink;
+    resize: both;
+    overflow: scroll;
 
 }
