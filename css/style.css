@@ -7,8 +7,9 @@ img {
     width: 160px;
     height: 160px;
     border: 2px solid;
-    color: pink;
+    color: black;
     resize: both;
     overflow: scroll;
+    align-items: center;
 
 }
